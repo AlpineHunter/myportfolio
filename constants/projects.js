@@ -1,0 +1,76 @@
+export const projects = [
+  {
+    name: '登山ホームページ',
+    githubUrl: 'https://github.com/AlpineHunter/lovemountainportfolio',
+    projectUrl: 'https://lovemountainportfolio.vercel.app/',
+    image: '../../assets/projects/lovemountain.png',
+    category: ['all', 'nextjs', 'vercel'],
+    deployed: true,
+  },
+  {
+    name: 'Vercelを調査していて感じたメリット・デメリット',
+    homepageUrl: '/',
+    image: '../../assets/projects/1.png',
+    category: ['vercel'],
+  },
+  {
+    name: 'Vercelをゼロから迅速に使い始める方法',
+    homepageUrl: '/',
+    image: '../../assets/projects/2.jpg',
+    category: ['vercel'],
+  },
+  {
+    name: 'next.jsを使ってブログサイトを作成する方法',
+    homepageUrl: '/',
+    image: '../../assets/projects/3.jpg',
+    category: ['nextjs'],
+  },
+  {
+    name: 'Next.jsを使うべき5つの理由 + 実装Tips',
+    homepageUrl: '/',
+    image: '../../assets/projects/4.jpg',
+    category: ['nextjs'],
+  },
+  {
+    name: 'Next.jsとは？特徴やメリット・デメリット',
+    homepageUrl: '/',
+    image: '../../assets/projects/5.jpg',
+    category: ['nextjs'],
+  },
+  {
+    name: '作って学ぶ Next.js/React Webサイト構築',
+    homepageUrl: '/',
+    image: '../../assets/projects/6.jpeg',
+    category: ['nextjs', 'vercel'],
+  },
+  {
+    name: '30分でできる! Next.js 開発の始め方',
+    homepageUrl: '/',
+    image: '../../assets/projects/7.jpg',
+    category: ['nextjs'],
+  },
+  {
+    name: 'Vercelの全貌と他の主要Webホスティングサービスとの比較',
+    homepageUrl: '/',
+    image: '../../assets/projects/8.jpg',
+    category: ['vercel'],
+  },
+  {
+    name: '10分で理解する「AWS」まとめ',
+    homepageUrl: '/',
+    image: '../../assets/projects/9.png',
+    category: ['aws'],
+  },
+  {
+    name: '【AWS初心者向け】AWS学習方法まとめ【15時間で達成できる】',
+    homepageUrl: '/',
+    image: '../../assets/projects/10.jpg',
+    category: ['aws'],
+  },
+  {
+    name: 'AWS クラウド導入事例',
+    homepageUrl: '/',
+    image: '../../assets/projects/11.png',
+    category: ['aws'],
+  },
+];
